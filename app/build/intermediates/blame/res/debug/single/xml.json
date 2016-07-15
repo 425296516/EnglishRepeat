@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/xml/category.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/xml/category.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/xml/setting.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/xml/setting.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/xml/understand_setting.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/xml/understand_setting.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/xml/understand_setting.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/xml/understand_setting.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/xml/ise_settings.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/xml/ise_settings.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/xml/ise_settings.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/xml/ise_settings.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/xml/category.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/xml/category.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/xml/setting.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/xml/setting.xml"
+    }
+]

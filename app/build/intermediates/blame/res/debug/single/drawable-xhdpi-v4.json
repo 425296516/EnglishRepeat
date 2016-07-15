@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bd_asr_wave.png",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/drawable-xhdpi/bd_asr_wave.png"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bd_asr_mic.png",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/drawable-xhdpi/bd_asr_mic.png"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bd_asr_wave.png",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/drawable-xhdpi/bd_asr_wave.png"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bd_asr_mic.png",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/drawable-xhdpi/bd_asr_mic.png"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

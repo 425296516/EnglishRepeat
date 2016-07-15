@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/libs/VoiceRecognition-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="20bdb075131eca514ca490bd4f32be1341620dc3">
+        <dex dex="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/pre-dexed/debug/VoiceRecognition-2.0.1_3dd5b878ec63f4a8008997d6e5ee6355d5bfdbf2.jar" />
+    </item>
+    <item
+        jar="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/libs/Msc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/pre-dexed/debug/Msc_aee18fffd85c3c5435e2b5059e58fce4d46de87e.jar" />
+    </item>
+    <item
+        jar="/Users/zhangcirui/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_3e4fefb87dd98162a246a52e47f5d5a01c5381a3.jar" />
+    </item>
+    <item
+        jar="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/libs/Sunflower.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ea605cd9caae5ed7775fcdbc9f26533794570ca">
+        <dex dex="/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/pre-dexed/debug/Sunflower_c4f66ee6fc7795cd039c1f54511a8ca31f9fd560.jar" />
+    </item>
+
+</items>

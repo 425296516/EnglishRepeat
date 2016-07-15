@@ -1,0 +1,2019 @@
+[
+    {
+        "outputFile": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 7776,
+                        "endLine": 212,
+                        "endColumn": 19,
+                        "endOffset": 7910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 7916,
+                        "endLine": 217,
+                        "endColumn": 19,
+                        "endOffset": 8078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 8452,
+                        "endLine": 234,
+                        "endColumn": 19,
+                        "endOffset": 8556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 5841,
+                        "endLine": 155,
+                        "endColumn": 19,
+                        "endOffset": 5996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 6002,
+                        "endLine": 161,
+                        "endColumn": 19,
+                        "endOffset": 6168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4329,
+                        "endLine": 105,
+                        "endColumn": 19,
+                        "endOffset": 4440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4446,
+                        "endLine": 109,
+                        "endColumn": 19,
+                        "endOffset": 4558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endLine": 40,
+                    "endColumn": 19,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 7533,
+                        "endLine": 203,
+                        "endColumn": 19,
+                        "endOffset": 7646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endLine": 48,
+                    "endColumn": 19,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 7652,
+                        "endLine": 207,
+                        "endColumn": 19,
+                        "endOffset": 7770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endLine": 32,
+                        "endColumn": 19,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endLine": 62,
+                    "endColumn": 19,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 6694,
+                        "endLine": 186,
+                        "endColumn": 19,
+                        "endOffset": 6857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endLine": 69,
+                    "endColumn": 19,
+                    "endOffset": 2106
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 6863,
+                        "endLine": 193,
+                        "endColumn": 19,
+                        "endOffset": 7045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2111,
+                    "endLine": 74,
+                    "endColumn": 19,
+                    "endOffset": 2275
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endLine": 39,
+                        "endColumn": 19,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2280,
+                    "endLine": 101,
+                    "endColumn": 19,
+                    "endOffset": 3140
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endLine": 74,
+                        "endColumn": 19,
+                        "endOffset": 2558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3145,
+                    "endLine": 105,
+                    "endColumn": 19,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 8231,
+                        "endLine": 226,
+                        "endColumn": 19,
+                        "endOffset": 8338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endLine": 109,
+                    "endColumn": 19,
+                    "endOffset": 3353
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 8344,
+                        "endLine": 230,
+                        "endColumn": 19,
+                        "endOffset": 8446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3358,
+                    "endLine": 113,
+                    "endColumn": 19,
+                    "endOffset": 3477
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 8084,
+                        "endLine": 221,
+                        "endColumn": 19,
+                        "endOffset": 8206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3482,
+                    "endLine": 118,
+                    "endColumn": 19,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endLine": 126,
+                    "endColumn": 19,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 6174,
+                        "endLine": 169,
+                        "endColumn": 19,
+                        "endOffset": 6381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endLine": 134,
+                    "endColumn": 19,
+                    "endOffset": 4061
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 6387,
+                        "endLine": 177,
+                        "endColumn": 19,
+                        "endOffset": 6587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4066,
+                    "endLine": 139,
+                    "endColumn": 19,
+                    "endOffset": 4245
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4250,
+                    "endLine": 159,
+                    "endColumn": 19,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4564,
+                        "endLine": 129,
+                        "endColumn": 19,
+                        "endOffset": 5236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endLine": 179,
+                    "endColumn": 19,
+                    "endOffset": 5482
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5242,
+                        "endLine": 149,
+                        "endColumn": 19,
+                        "endOffset": 5835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 5487,
+                    "endColumn": 57,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 55,
+                    "endOffset": 5596
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 5601,
+                    "endColumn": 43,
+                    "endOffset": 5640
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endColumn": 43,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5645,
+                    "endColumn": 43,
+                    "endOffset": 5684
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 43,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 5689,
+                    "endColumn": 37,
+                    "endOffset": 5722
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 37,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 5727,
+                    "endColumn": 120,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 2656,
+                        "endColumn": 120,
+                        "endOffset": 2772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endColumn": 35,
+                    "endOffset": 5879
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 43,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 5884,
+                    "endColumn": 37,
+                    "endOffset": 5917
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 45,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 5922,
+                    "endColumn": 32,
+                    "endOffset": 5950
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1180,
+                        "endColumn": 40,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5955,
+                    "endColumn": 44,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 44,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 54,
+                    "endOffset": 6050
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 4143,
+                        "endColumn": 54,
+                        "endOffset": 4193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 6055,
+                    "endColumn": 53,
+                    "endOffset": 6104
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endColumn": 53,
+                        "endOffset": 4304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 6109,
+                    "endColumn": 54,
+                    "endOffset": 6159
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4199,
+                        "endColumn": 54,
+                        "endOffset": 4249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 6164,
+                    "endColumn": 33,
+                    "endOffset": 6193
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1629,
+                        "endColumn": 41,
+                        "endOffset": 1666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 6198,
+                    "endColumn": 35,
+                    "endOffset": 6229
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 43,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 6234,
+                    "endColumn": 38,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 38,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 40,
+                    "endOffset": 6309
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 40,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 6314,
+                    "endColumn": 36,
+                    "endOffset": 6346
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 36,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 6351,
+                    "endColumn": 45,
+                    "endOffset": 6392
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endColumn": 45,
+                        "endOffset": 3793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 6397,
+                    "endColumn": 57,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3799,
+                        "endColumn": 57,
+                        "endOffset": 3852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 88,
+                    "endOffset": 6539
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 7443,
+                        "endColumn": 88,
+                        "endOffset": 7527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 6544,
+                    "endColumn": 52,
+                    "endOffset": 6592
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 7330,
+                        "endColumn": 52,
+                        "endOffset": 7378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6597,
+                    "endColumn": 57,
+                    "endOffset": 6650
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 7384,
+                        "endColumn": 57,
+                        "endOffset": 7437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6655,
+                    "endColumn": 54,
+                    "endOffset": 6705
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4087,
+                        "endColumn": 54,
+                        "endOffset": 4137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6710,
+                    "endColumn": 184,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 7144,
+                        "endColumn": 184,
+                        "endOffset": 7324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endColumn": 72,
+                    "endOffset": 6963
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 7070,
+                        "endColumn": 72,
+                        "endOffset": 7138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6968,
+                    "endColumn": 214,
+                    "endOffset": 7178
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3352,
+                        "endColumn": 214,
+                        "endOffset": 3562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 7183,
+                    "endColumn": 156,
+                    "endOffset": 7335
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2778,
+                        "endColumn": 156,
+                        "endOffset": 2930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 7340,
+                    "endColumn": 414,
+                    "endOffset": 7750
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2936,
+                        "endColumn": 414,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 7755,
+                    "endColumn": 165,
+                    "endOffset": 7916
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3568,
+                        "endColumn": 165,
+                        "endOffset": 3729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 7921,
+                    "endColumn": 54,
+                    "endOffset": 7971
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3858,
+                        "endColumn": 54,
+                        "endOffset": 3908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 7976,
+                    "endColumn": 52,
+                    "endOffset": 8024
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3972,
+                        "endColumn": 52,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8029,
+                    "endColumn": 56,
+                    "endOffset": 8081
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3914,
+                        "endColumn": 56,
+                        "endOffset": 3966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8086,
+                    "endColumn": 59,
+                    "endOffset": 8141
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4026,
+                        "endColumn": 59,
+                        "endOffset": 4081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8146,
+                    "endColumn": 82,
+                    "endOffset": 8224
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 6593,
+                        "endColumn": 82,
+                        "endOffset": 6671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8229,
+                    "endColumn": 32,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 40,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8262,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 8708
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endLine": 40,
+                    "endColumn": 19,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endLine": 48,
+                    "endColumn": 19,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endLine": 62,
+                    "endColumn": 19,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endLine": 69,
+                    "endColumn": 19,
+                    "endOffset": 2106
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2111,
+                    "endLine": 74,
+                    "endColumn": 19,
+                    "endOffset": 2275
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2280,
+                    "endLine": 101,
+                    "endColumn": 19,
+                    "endOffset": 3140
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3145,
+                    "endLine": 105,
+                    "endColumn": 19,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endLine": 109,
+                    "endColumn": 19,
+                    "endOffset": 3353
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3358,
+                    "endLine": 113,
+                    "endColumn": 19,
+                    "endOffset": 3477
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3482,
+                    "endLine": 118,
+                    "endColumn": 19,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endLine": 126,
+                    "endColumn": 19,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endLine": 134,
+                    "endColumn": 19,
+                    "endOffset": 4061
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4066,
+                    "endLine": 139,
+                    "endColumn": 19,
+                    "endOffset": 4245
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4250,
+                    "endLine": 159,
+                    "endColumn": 19,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endLine": 179,
+                    "endColumn": 19,
+                    "endOffset": 5482
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 5487,
+                    "endColumn": 57,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 55,
+                    "endOffset": 5596
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 5601,
+                    "endColumn": 43,
+                    "endOffset": 5640
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5645,
+                    "endColumn": 43,
+                    "endOffset": 5684
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 5689,
+                    "endColumn": 37,
+                    "endOffset": 5722
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 5727,
+                    "endColumn": 120,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endColumn": 35,
+                    "endOffset": 5879
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 5884,
+                    "endColumn": 37,
+                    "endOffset": 5917
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 5922,
+                    "endColumn": 32,
+                    "endOffset": 5950
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5955,
+                    "endColumn": 44,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 54,
+                    "endOffset": 6050
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 6055,
+                    "endColumn": 53,
+                    "endOffset": 6104
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 6109,
+                    "endColumn": 54,
+                    "endOffset": 6159
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 6164,
+                    "endColumn": 33,
+                    "endOffset": 6193
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 6198,
+                    "endColumn": 35,
+                    "endOffset": 6229
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 6234,
+                    "endColumn": 38,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 40,
+                    "endOffset": 6309
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 6314,
+                    "endColumn": 36,
+                    "endOffset": 6346
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 6351,
+                    "endColumn": 45,
+                    "endOffset": 6392
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 6397,
+                    "endColumn": 57,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 88,
+                    "endOffset": 6539
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 6544,
+                    "endColumn": 52,
+                    "endOffset": 6592
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6597,
+                    "endColumn": 57,
+                    "endOffset": 6650
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6655,
+                    "endColumn": 54,
+                    "endOffset": 6705
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6710,
+                    "endColumn": 184,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 7144,
+                        "endColumn": 184,
+                        "endOffset": 7324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endColumn": 72,
+                    "endOffset": 6963
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6968,
+                    "endColumn": 214,
+                    "endOffset": 7178
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 7183,
+                    "endColumn": 156,
+                    "endOffset": 7335
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 7340,
+                    "endColumn": 414,
+                    "endOffset": 7750
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 7755,
+                    "endColumn": 165,
+                    "endOffset": 7916
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 7921,
+                    "endColumn": 54,
+                    "endOffset": 7971
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 7976,
+                    "endColumn": 52,
+                    "endOffset": 8024
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8029,
+                    "endColumn": 56,
+                    "endOffset": 8081
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8086,
+                    "endColumn": 59,
+                    "endOffset": 8141
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8146,
+                    "endColumn": 82,
+                    "endOffset": 8224
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8229,
+                    "endColumn": 32,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8262,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 8708
+                },
+                "from": {
+                    "file": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/isedemo.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/layout/isedemo.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/sdk2_api.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/layout/sdk2_api.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/layout/bdspeech_suggestion_item.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/layout/bdspeech_suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/layout/bd_asr_popup_speech.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/layout/bd_asr_popup_speech.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/layout/bdspeech_digital_layout.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/layout/bdspeech_digital_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/bd_asr_popup_speech.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/layout/bd_asr_popup_speech.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/bdspeech_digital_layout.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/layout/bdspeech_digital_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/layout/isedemo.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/layout/isedemo.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/build/intermediates/res/merged/debug/layout/sdk2_api.xml",
+        "source": "/Users/zhangcirui/jiuwei/语音识别/英语跟读识别/app/src/main/res/layout/sdk2_api.xml"
+    },
+    {
+        "merged": "/Users/zhangcirui/Downloads/demo1/app/build/intermediates/res/merged/debug/layout/bdspeech_suggestion_item.xml",
+        "source": "/Users/zhangcirui/Downloads/demo1/app/src/main/res/layout/bdspeech_suggestion_item.xml"
+    }
+]
